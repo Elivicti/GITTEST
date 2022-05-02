@@ -1,8 +1,3 @@
 #pragma once
 
-inline void swap(int& a, int& b)
-{
-	a ^= b;
-	b ^= a;
-	a ^= b;
-}
+void swap(int& a, int& b);
