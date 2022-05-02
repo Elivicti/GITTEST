@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-  cout << "GIT TEST" << endl;
-  return 0;
+	cout << "GIT TEST" << endl;
+	return 0;
 }
